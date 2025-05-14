@@ -1,0 +1,22 @@
+# Build artifacts
+/build/
+/CMakeFiles/
+/cmake_install.cmake
+/Makefile
+/*.cbp
+/*.pro.user
+/*.qrc.user
+/*.user
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+
+# Qt Creator
+*.creator*
+*.qtcproject.*
+*.pro.user*
+
+# VS Code
+.vscode/
